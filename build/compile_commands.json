@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Desktop/voronoi/build",
+  "command": "C:\\ProgramData\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\voronoi.dir\\voronoi.c.obj -c D:\\Desktop\\voronoi\\voronoi.c",
+  "file": "D:/Desktop/voronoi/voronoi.c"
+}
+]
